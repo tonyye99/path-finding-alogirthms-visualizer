@@ -1,0 +1,25 @@
+.cell {
+  width: 40px;
+  height: 40px;
+  border: 1px solid #a6a6a6;
+}
+
+.wall {
+  background-color: #2b2b2b;
+}
+
+.path {
+  background-color: #a6a6a6;
+}
+
+.visited {
+  background-color: rgb(0, 0, 255, 0.1);
+}
+
+.start {
+  background-color: rgb(0, 128, 0);
+}
+
+.end {
+  background-color: rgb(255, 128, 0);
+}
